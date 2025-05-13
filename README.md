@@ -1,6 +1,6 @@
 # aiwrapper
 
-ChatGPT API を呼び出し、リクエストとレスポンスを JSON でログとして保存するCLIツール。
+ChatGPT API を呼び出し、リクエストとレスポンスをログとして保存するCLIツール。
 
 ## 特長
 
